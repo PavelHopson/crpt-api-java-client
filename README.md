@@ -1,0 +1,1 @@
+Java client for CRPT (Honest Sign) API with rate limiting support. Thread-safe implementation for integration with Russian product marking system, enabling goods circulation documentation creation with proper request throttling.
